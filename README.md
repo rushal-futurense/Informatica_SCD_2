@@ -1,4 +1,4 @@
-# Informatica_SCD_2
+# CREDIT INFO ETL
 
 ![alt text](https://cdn.britannica.com/02/160902-050-B58BAD84/Credit-cards.jpg)
 
