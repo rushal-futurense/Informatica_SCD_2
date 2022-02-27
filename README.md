@@ -13,6 +13,7 @@ The icici bank want to use the customer data to check the eligibility of getting
 
 ## Source data in MySQL server 
 
+![alt text](https://github.com/gyana13/credit_info_ETL/blob/main/sql_server.png?raw=true)
 
 ## Target data in Oracle server
 
