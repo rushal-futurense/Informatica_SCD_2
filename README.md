@@ -21,4 +21,4 @@ The ICICI bank want to use the customer data to check the eligibility of getting
 
 ## Complete ETL Diagram
 
-![alt text]https://github.com/rushal-futurense/Informatica_SCD_2/blob/main/Rep_Dev0003.pdf
+![alt text](https://github.com/rushal-futurense/Informatica_SCD_2/blob/main/Rep_Dev0003.pdf)
