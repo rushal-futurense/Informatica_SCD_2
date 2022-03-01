@@ -11,11 +11,11 @@ The bank does a background check of vijay to know if he is elligible for the cre
 
 The ICICI bank want to use the customer data to check the eligibility of getting a credit card. The bank will monitor all the parameters such as the Employee history of the customer which are the previous companies he worked for , what is his current salary, what is his designation, how frequently he changes the job and the credit score hostory of the customer, All the data related to the customer is available in the the MS SQL Server database now the bank hires a ETL developer and  wants the data to be loaded in the oracle database and to know the designation and credit score history. The ETL developer decided to use Informatica for the above problem and used SCD 2 implementation.
 
-## Source data in MySQL server 
+## Source data in MS SQL server 
 
 ![alt text](https://github.com/gyana13/credit_info_ETL/blob/main/sql_server.png?raw=true)
 
-## Target data in Oracle server
+## Target data in Oracle SQL
 
 ![alt text](https://github.com/gyana13/credit_info_ETL/blob/main/tgt_oracle.jpg?raw=true)
 
